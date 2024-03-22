@@ -1,3 +1,9 @@
+# Fork Info
+Thanks to richbira for the original app!
+I'm planning to connect it with Notion to auto-update my tasks when I finish a pomodoro session on them.
+
+I also converter it to CTk, because I like it's modern style.
+
 # Pomodoro Timer GUI App 🍅
 How to become more productive!
 
